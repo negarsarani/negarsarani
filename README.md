@@ -1,5 +1,5 @@
 <h1 align="center">Hi🙋‍♀️ This is Negar Sarani</h1>
-<h3 align="center">A junior front end developer ╰(*°▽°*)╯</h3>
+<h2 align="center">A junior front end developer ╰(*°▽°*)╯</h2>
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/11834937/screenshots/18440710/media/f95608921737c01be89fd64a66827ac7.gif">
 
