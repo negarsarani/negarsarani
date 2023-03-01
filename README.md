@@ -1,7 +1,7 @@
 <h1 align="center">Hi🙋‍♀️ This is Negar Sarani</h1>
 <h3 align="center">A junior front end developer ╰(*°▽°*)╯</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/11834937/screenshots/18440710/media/f95608921737c01be89fd64a66827ac7.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/11834937/screenshots/18440710/media/f95608921737c01be89fd64a66827ac7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negarsarani&label=Profile%20views&color=0e75b6&style=flat" alt="negarsarani" /> </p>
 <h3> About me :</h3>
