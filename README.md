@@ -25,10 +25,6 @@
   </a>
   <br/>
   <a href="">
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=negarsarani&theme=tokyonight&hide_border=true'>
-  </a>
-  <br/>
-  <a href="">
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=negarsarani&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
   </a>
 </div>
