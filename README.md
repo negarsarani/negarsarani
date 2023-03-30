@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning : React , Node js
 
 - 📫 How to reach me : negar.sarani2002@gmail.com
+-  My linkedin :  <a href="https://linkedin.com/in/negarsarani" target="blank">negarsarani</a>
 
 - **JUST BE YOURSELF🤍**
 
