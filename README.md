@@ -24,7 +24,11 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>    <a target="_blank" href="https://github.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45"
-      height="45" /></a>  </p> 
+      height="45" /></a> 
+      
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
+ </p> 
  
   </br>
   
