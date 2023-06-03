@@ -27,7 +27,7 @@
       height="45" /></a> 
       
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="40" height="40"/> </a>
  </p> 
  
   </br>
