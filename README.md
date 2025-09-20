@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=negarsarani&label=Profile%20views&color=0e75b6&style=flat" alt="negarsarani" /> </p>
 <h3> About me :</h3>
 
-- 🌱 I’m currently learning : Next js , Node js
+- 🌱 I’m currently know : Next js , Node js , TypeScript, JavaScript (ES6+), HTML5, CSS3; React, Next.js, Vue, Nuxt; Redux, React Query; REST APIs; Git/Gitflow, Node.js, NPM, Vite; Figma
 
 - 📫 How to reach me : negar.sarani2002@gmail.com
 -  My linkedin :  <a href="https://linkedin.com/in/negarsarani" target="blank">negarsarani</a>
